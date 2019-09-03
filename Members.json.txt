@@ -1,0 +1,9 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 0.1
+ */
+
+// Database 'country_club'
+// country_club.Members
+
+[{"firstname": "Darren","surname": "Smith"}]
